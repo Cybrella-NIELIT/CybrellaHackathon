@@ -12,5 +12,6 @@ Participants can refer to this repository for guidance:
 - 📚 Proper documentation is highly encouraged.
 - ⏰ Complete a working prototype by 26th Feb 11:59 IST.
 - 🎥 Include a demonstration and explanation of your project in the documentation.
+- 📝 Participants are required to showcase their commits everyday by detailing the changes in the documentation. 
 
 Good luck and happy hacking! 🚀
